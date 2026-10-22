@@ -1,7 +1,22 @@
 {
-  "updated": "2026-10-20T19:27:28.288Z",
-  "count": 1,
+  "updated": "2026-10-22T16:12:49.143Z",
+  "count": 2,
   "listings": [
+    {
+      "url": "https://camerondwilson20.github.io/sas-listings/listings/1548-e-williams-st-apex/",
+      "title": "6.10 Acres with NC 55 Frontage",
+      "address": "1548 E Williams St",
+      "city": "Apex, NC 27539",
+      "offering": "For Sale",
+      "status": "Available",
+      "type": "Land",
+      "price": "Sale Price: Negotiable",
+      "size": "6.1 Acres",
+      "photo": "https://camerondwilson20.github.io/sas-listings/listings/1548-e-williams-st-apex/img/photo-1.jpg",
+      "flyer": "https://camerondwilson20.github.io/sas-listings/listings/1548-e-williams-st-apex/1548-e-williams-st-apex-flyer.pdf",
+      "updated": "2026-10-22T16:12:49.143Z",
+      "slug": "1548-e-williams-st-apex"
+    },
     {
       "url": "https://camerondwilson20.github.io/sas-listings/listings/clayton-blvd-gordon-rd-clayton/",
       "title": "SEC Clayton Blvd (US-70 Bus) & Gordon Rd",
