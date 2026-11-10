@@ -2,8 +2,8 @@
 
 Each folder here is one listing's web page, published from the SAS Listing Tool.
 
-- Page address: https://camerondwilson20.github.io/sas-listings/listings/<slug>/
-- Every published listing: https://camerondwilson20.github.io/sas-listings/listings/index.json
+- Page address: https://www.southatlanticsites.com/listings/<slug>/
+- Every published listing: https://www.southatlanticsites.com/listings/index.json
 - The <slug> never changes once a listing is published, so links stay good when the
   price, photos or status change.
 - `index.json` lists every published listing: slug, url, title, address, offering,
